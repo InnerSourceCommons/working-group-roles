@@ -4,7 +4,7 @@ The _Scheduler_ prepares the agenda document and sends the calendar invite for t
 
 ***Within 24 Hours of Prior Meeting***
 
-- [ ] Visit the [shared document folder][folder].
+- [ ] Visit the [shared document folder][folder]{:target="_blank"}.
 - [ ] Right-click on the `20YY - MM - DD` template file.
 - [ ] Select `Make a copy`.
 - [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
