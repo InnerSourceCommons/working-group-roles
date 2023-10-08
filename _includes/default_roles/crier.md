@@ -3,7 +3,7 @@ A _Crier_ reminds us in Slack of upcoming meetings.
 **One Business Day Before The Meeting**
 
 * [ ] *Announce* the meeting in our [Slack][chat]{:target="_blank"}.
-* [ ] *Send the announcement* to [#general] using the `Share` arrow.
+* [ ] *Send the announcement* to [#general]{:target="_blank"} using the `Share` arrow.
 
 <img src="https://user-images.githubusercontent.com/9609562/220438340-2fed944a-142b-4217-bcae-5c0e0110ed05.png" width="500px" />
 
