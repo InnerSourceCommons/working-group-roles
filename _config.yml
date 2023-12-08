@@ -3,6 +3,8 @@
 title: "Name of Your Working Group"
 description: "Description of Your Working Group"
 
+backlink: InnerSource Commons, https://innersourcecommons.org/community/
+
 # The name only of your repo exactly.
 baseurl: "repo-name" 
 
