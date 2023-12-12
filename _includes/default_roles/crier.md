@@ -3,7 +3,10 @@ A _Crier_ reminds us in Slack of upcoming meetings.
 **One Business Day Before The Meeting**
 
 * [ ] *Announce* the meeting in the [Slack channel][chat]{:target="_blank"} of our working group.
-* [ ] *Send the announcement* to [#general]{:target="_blank"} using the `Share` arrow.
+    * Include a link to the meeting notes, you can find them in the [shared document folder][folder]{:target="_blank"}
+{% if site.links.meeting_link != nil %}    * Include a [link to join the meeting][meeting_link]{:target="_blank"}
+{% endif %}
+* [ ] *Send the announcement* to [#general]{:target="_blank"} using the `Share` arrow.  
 
 <img src="https://user-images.githubusercontent.com/9609562/220438340-2fed944a-142b-4217-bcae-5c0e0110ed05.png" width="500px" />
 
