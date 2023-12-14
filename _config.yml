@@ -24,5 +24,8 @@ links:
   # This is used to remember to reach out to those that used to come but then don't show for a while.
   attendance: 
 
+  # Optional: The link to join the regular meeting of your working group (e.g link a Jitsi or Zoom meeting)
+  meeting_link:
+
 # This should stay as InnerSourceCommons/working-group-roles
 remote_theme: InnerSourceCommons/working-group-roles
