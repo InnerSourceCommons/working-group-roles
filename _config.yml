@@ -5,11 +5,12 @@ description: "Description of Your Working Group"
 
 backlink: InnerSource Commons, https://innersourcecommons.org/community/
 
-# The name only of your repo exactly.
-baseurl: "repo-name" 
+# The name only of your repo exactly, with a leading "/". Uncomment the line below when you copy this file.
+# It is commented to facilitate the local development of this theme
+# baseurl: "/repo-name" 
 
-# This should stay as "https://innersourcecommons.github.io/"
-url: "https://innersourcecommons.github.io/"
+# This should stay as "https://innersourcecommons.github.io"
+url: "https://innersourcecommons.github.io"
 
 links:
   # The web URL to your Slack channel.
