@@ -4,6 +4,7 @@ A _Crier_ reminds us in Slack of upcoming meetings.
 
 * [ ] *Announce* the meeting in the [Slack channel][chat]{:target="_blank"} of our working group.
     * Include a link to the meeting notes, you can find them in the [shared document folder][folder]{:target="_blank"}
+    * Include a link to the [InnerSource Commons Calendar](https://innersourcecommons.org/calendar/) page so that potential attendees can copy the event to their calendar.
 {% if site.links.meeting_link != nil %}    * Include a [link to join the meeting][meeting_link]{:target="_blank"}
 {% endif %}
 * [ ] *Send the announcement* to [#general]{:target="_blank"} using the `Share` arrow.  
