@@ -3,3 +3,4 @@
 [{{ link[0] }}]: {{link[1]}}
 {% endunless %}
 {% endfor %}
+[isc calendar]: https://github.com/InnerSourceCommons/foundation-governance/blob/master/how-to/access-isc-calendar.md
