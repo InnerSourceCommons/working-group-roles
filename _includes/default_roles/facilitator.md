@@ -9,8 +9,9 @@ The _Facilitator_ conducts the meeting so that all of the agenda items are finis
 ***During the meeting***
 - [ ]  Facilitate the meeting according to following Tips below.
 
-{% if site.links.attendance != nil %}
 ***After the meeting***
+- [ ]  Update the [calendar invite][isc calendar] to include any newcomers.
+{% if site.links.attendance != nil %}
 - [ ]  Update the [attendance]({{site.links.attendance}}) to mark those present at the meeting.
 - [ ]  Reach out to anyone that has not attended the last 3 meetings or more.
 {% endif %}

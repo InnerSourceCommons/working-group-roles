@@ -9,7 +9,7 @@ The _Scheduler_ prepares the agenda document and sends the calendar invite for t
 - [ ] Select `Make a copy`.
 - [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 - [ ] Open the document and follow the steps in the ***Do these things to set up this document*** section.
-- [ ] Update the [calendar invite](https://github.com/InnerSourceCommons/foundation-governance/blob/master/how-to/access-isc-calendar.md){:target="_blank"} for the next meeting to add:
+- [ ] Update the [calendar invite][isc calendar]{:target="_blank"} for the next meeting to add:
 
    * Write-enabled link to the agenda document.
    * Role assignments and agenda detail summary.
