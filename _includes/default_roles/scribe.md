@@ -15,11 +15,6 @@ Part of your service as _Scribe_ is to summarize the key points of what was said
 - [ ] Clean up the notes into a cohesive record of the meeting.
 - [ ] Announce in [Slack][chat]{:target="_blank"} that the notes are in the agenda document.
 In your announcement include a sharing link to the document itself.
-- [ ] Reply-all to the meeting invite with the notes from the meeting.
-This email should include (in order):
-  * Generic thank-you to meeting participants.
-  * Link to the agenda document where the notes are located.
-  * Notes from the agenda document.
 
 ## Tips
 
