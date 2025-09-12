@@ -19,8 +19,9 @@ A _Crier_ reminds us in Slack of upcoming meetings.
 **Tips**
 
 * Make the announcement clear enough for those without a calendar invite.
-     * Meeting day/time
-     * Call info
+   * Meeting day/time
+   * Call info
+   * **IMPORTANT:** Don't use the @channel command in Slack
 * An excellent way to keep participants and non-participants intrigued is to include interesting agenda items from the calendar invite in the announcement. 
 * You can schedule Slack messages ahead of time. Write your message, click on the _down_ arrow by the side of the _send_ button and select _Custom time_.
      * You cannot easily automate the forwarding of this message to [#general]{:target="_blank"}. Alternatively, it is a good idea to set a reminder for yourself to do it at the time you schedule your message.
